@@ -1,8 +1,8 @@
-###🏆​ » Hello, Im @GabzDeveloper !
+### 🏆​ » Hello, Im @GabzDeveloper !
 
 • Im a French Java Developer.
 
-##My Projects:
+### My Projects:
 
 » Elaria: Serveur de Développement et d'entrainement.  
 » SatariaMC: Fermé.  
