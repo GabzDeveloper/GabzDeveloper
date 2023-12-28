@@ -6,7 +6,7 @@
 
 » Elaria: Serveur de Développement et d'entrainement.  
 » SatariaMC: Fermé.  
-» SinabsyMC: Fermé.
+» SinabsyMC: Fermé.  
   ↳ *(https://www.sinabsymc.fr)*
 
 ### ☎️​ » Contact(s):
