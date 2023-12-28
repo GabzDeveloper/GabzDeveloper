@@ -10,7 +10,7 @@
 
 ### ☎️​ » Contact(s):
 
-*EMAIL* • `gabriel@sinabsymc.fr`
+*EMAIL* • `gabriel@sinabsymc.fr`  
 *DISCORD* • `gabriel__l`
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabzDeveloper&show_icons=true&theme=radical)
