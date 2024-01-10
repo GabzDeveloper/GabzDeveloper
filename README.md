@@ -12,6 +12,11 @@
 » SinabsyMC: Fermé.  
   ↳ *(https://www.sinabsymc.fr)*
 
+  ### 🎶 » J'écoute:
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rjjth7hge7bchxg2lsrkflko6m&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=4ea6b1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
 ### ☎️​ » Contact(s):
 
 *EMAIL* • `gabriel@sinabsymc.fr`  
