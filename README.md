@@ -1,9 +1,9 @@
-![Promo-Facebook-Facebook cover photo](https://github.com/GabzDeveloper/GabzDeveloper/assets/121170792/11992a1a-1cbf-40d1-9401-c5d8843f6433)
-
 
 ### 🏆​ » Hello, Im @GabzDeveloper !
 
 • Im a French Java Developer.
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ### 📍​ » My Projects:
 
