@@ -9,7 +9,7 @@
 
 ### 📍​ » My Projects:
 
-» Elaria: Serveur de Développement et d'entrainement.  
+» Akalmy: Développeur - *(https://www.akalmy.fr)*  
 » SatariaMC: Fermé. - *(https://www.satariamc.tech)*  
 » SinabsyMC: Fermé. - *(https://www.sinabsymc.fr)*  
 
