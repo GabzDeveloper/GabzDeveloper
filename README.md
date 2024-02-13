@@ -3,7 +3,9 @@
 
 • Im a French Java Developer.
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+### 📚​ » Langue(s) de CODAGE/Application(s):
+
+[![My Skills](https://skillicons.dev/icons?i=java,gitlab,html,mysql,pr,figma&theme=light)](https://skillicons.dev)
 
 ### 📍​ » My Projects:
 
