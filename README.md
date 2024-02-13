@@ -10,9 +10,8 @@
 ### 📍​ » My Projects:
 
 » Elaria: Serveur de Développement et d'entrainement.  
-» SatariaMC: Fermé. - *(https://www.satariamc.tech)*
-
-» SinabsyMC: Fermé. - *(https://www.sinabsymc.fr)*
+» SatariaMC: Fermé. - *(https://www.satariamc.tech)* 
+» SinabsyMC: Fermé. - *(https://www.sinabsymc.fr)* 
 
 
 ### ☎️​ » Contact(s):
