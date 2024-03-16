@@ -22,6 +22,6 @@
 *EMAIL* • `gabriel@sinabsymc.fr`  
 *DISCORD* • `gabriel__l`
 
-`nano /home/gabriel/github/stats.txt`
+### 📈​ » Statistiques: nano /home/gabriel/github/stats.txt
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabzDeveloper&show_icons=true&theme=radical)
