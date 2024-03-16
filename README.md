@@ -2,11 +2,8 @@
 ### 🏆​ » Hello, Im @GabzDeveloper !
 
 {  
-
 "displayName": "Gabriel__lrx"  
-
 "Work on": "Akalmy"  
-
 } 
 
 ### 📚​ » Langue(s) de CODAGE/Application(s):
