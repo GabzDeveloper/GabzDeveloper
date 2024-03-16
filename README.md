@@ -1,7 +1,10 @@
 
 ### 🏆​ » Hello, Im @GabzDeveloper !
 
-• Im a French Java Developer.
+{
+"displayName": "Gabriel__lrx"
+"Work on": "Akalmy"
+}
 
 ### 📚​ » Langue(s) de CODAGE/Application(s):
 
@@ -18,5 +21,7 @@
 
 *EMAIL* • `gabriel@sinabsymc.fr`  
 *DISCORD* • `gabriel__l`
+
+`nano /home/gabriel/github/stats.txt`
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabzDeveloper&show_icons=true&theme=radical)
