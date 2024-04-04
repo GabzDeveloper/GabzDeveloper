@@ -3,7 +3,6 @@
 
 {  
 "displayName": "Gabriel__lrx"  
-"Work on": "Akalmy"  
 } 
 
 ### 📚​ » Langue(s) de CODAGE/Application(s):
@@ -12,7 +11,6 @@
 
 ### 📍​ » My Projects:
 
-» Akalmy: Développeur - *(https://www.akalmy.fr)*  
 » SinabsyMC: Fermé. - *(https://www.sinabsymc.fr)*  
 
 
