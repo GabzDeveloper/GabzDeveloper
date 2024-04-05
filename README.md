@@ -7,7 +7,7 @@
 
 ### 📚​ » Langue(s) de CODAGE/Application(s):
 
-[![My Skills](https://skillicons.dev/icons?i=java,gitlab,html,mysql,pr&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,mysql&theme=light)](https://skillicons.dev)
 
 ### 📍​ » My Projects:
 
