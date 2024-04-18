@@ -5,9 +5,9 @@
 
 • Pseudo Minecraft: *Gabriel__lrx*
 
-### 📚​ » Langue(s) de CODAGE/Application(s):
+### 📚​ » Langue(s) de CODAGE:
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 
 ### 📍​ » My Projects:
 
