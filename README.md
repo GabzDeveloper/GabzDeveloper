@@ -3,9 +3,7 @@
 
 ### 🏆​ » Hello, Im @GabzDeveloper !
 
-{  
-"displayName": "Gabriel__lrx"  
-} 
+• Pseudo Minecraft: *Gabriel__lrx*
 
 ### 📚​ » Langue(s) de CODAGE/Application(s):
 
@@ -18,7 +16,7 @@
 
 ### ☎️​ » Contact(s):
 
-*EMAIL* • `gabriel@sinabsymc.fr`  
+*EMAIL* • `gabriel@sinabsymc.fr` (Plus Disponible)  
 *DISCORD* • `gabriel__l`
 
 ### 📈​ » Statistiques: 
